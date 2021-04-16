@@ -2,7 +2,7 @@
 This is a term project for CPSC 565 (Emergent Computing) completed at the University of Calgary.
 
 
-You can read my full project write-up here.
+You can read my full project write-up [here](Images/CPSC565_Paper.pdf)
 
 
 ##Instructions for downloading source code
