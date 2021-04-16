@@ -5,19 +5,17 @@ This is a term project for CPSC 565 (Emergent Computing) completed at the Univer
 You can read my full project write-up [here](Images/CPSC565_Paper.pdf)
 
 
-##Instructions for downloading source code
+## Instructions for downloading source code
 1. Download or Clone Repo
 2. Open Unreal Engine Project File
 
 
-##Instructions for downloading build
-You can download a build from the "releases" section of this repo.
 
-##Main Menu
+## Main Menu
 Upon starting the simulation you will get to adjust some of the parameters of the simulation through the Main Menu.
 
 
-###Settings
+### Settings
 ![MainMenu](Images/MainMenu.png)
 
 * **Num of Agents:** How many agents you wish to start the simulation with.
@@ -29,10 +27,10 @@ Upon starting the simulation you will get to adjust some of the parameters of th
 
 
 
-##In-Game Debug Menu
+## In-Game Debug Menu
 During the simulation you can press the 'J' key to bring up the debug menu.
 
-##Adding your own songs
+## Adding your own songs
 1. Import a WAV file into the Unreal Engine Editor.
 2. Double click on the sound file to bring up its settings.
 3. Scroll down and make sure the "Enable Baked FFTAnalysis" box is checked.
